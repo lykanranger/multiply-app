@@ -14,9 +14,10 @@ body {
 }
 
 .input {
+  text-align: center;
   padding: 10px;
   font-size: 18px;
-  border: 1px solid #ccc;
+  border: 1px solid #737373;
   border-radius: 5px;
   width: 100%;
   box-sizing: border-box;
@@ -45,3 +46,4 @@ body {
   color: #666;
   margin-top: 10px;
 }
+
